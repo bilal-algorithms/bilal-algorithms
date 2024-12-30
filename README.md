@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bilal-algorithms
-- 👀 I’m interested in Programming
+- 👀 I’m interested in Software Development & tech
 - 🌱 I’m currently learning Computer science
 - 💞️ I’m looking to collaborate on programming startups and projects
 - 📫 How to reach me: contact bilal.algo on discord
