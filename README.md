@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @bilal-algorithms
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Computer scinece
+- 🌱 I’m currently learning Computer science
 - 💞️ I’m looking to collaborate on programming startups and projects
-- 📫 How to reach me: email me on bilal.kanjelkheir@gmail.com
+- 📫 How to reach me: contact bilal.algo on discord
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love mathematics
+- ⚡ Fun fact: I love mathematics & algorithms
 
 <!---
 bilal-algorithms/bilal-algorithms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
