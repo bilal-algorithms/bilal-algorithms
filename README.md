@@ -28,7 +28,7 @@ Here are some of the things I'm working on:
 
 You can reach out to me through:
 
-- [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/bilal-kanjelkheir-9a893a302/))
+- [LinkedIn](https://www.linkedin.com/in/bilal-kanjelkheir-9a893a302/)
 - [Telegram](https://t.me/khawarozmi)
 
 Feel free to reach out, I love connecting with like-minded people. Let’s build something amazing together! 🔥
