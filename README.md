@@ -1,97 +1,34 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Hey, Welcome to My GitHub!</title>
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f9;
-            color: #333;
-        }
+# Hey, Welcome to My GitHub!
 
-        header {
-            background-color: #2c3e50;
-            color: #ecf0f1;
-            padding: 20px;
-            text-align: center;
-        }
+## Who Am I?
 
-        .content {
-            padding: 20px;
-        }
+Hi there! 👋 I'm a Computer Science student who's currently diving deep into:
 
-        h1, h2 {
-            font-size: 2.5rem;
-            color: #2c3e50;
-        }
+- Data Structures & Algorithms
+- Advanced Math (trying to get better at it!)
+- And, I'm working on a startup that I'm really excited about 🚀
 
-        .projects, .contact {
-            margin-top: 20px;
-        }
+I love problem-solving, coding, and learning new things every day. I'm also passionate about building solutions that make a difference.
 
-        .hr-line {
-            border: 0;
-            border-top: 2px solid #3498db;
-            margin: 20px 0;
-        }
+## What I'm Up To
 
-        .footer {
-            background-color: #2c3e50;
-            color: #ecf0f1;
-            text-align: center;
-            padding: 10px;
-            position: fixed;
-            width: 100%;
-            bottom: 0;
-        }
-    </style>
-</head>
-<body>
-    <header>
-        <h1>Hey, Welcome to My GitHub!</h1>
-        <p>Computer Science Student | Data Structures & Algorithms | Startup Enthusiast</p>
-    </header>
+- 💻 Right now, I'm working hard on mastering **Data Structures** and **Algorithms** to level up my coding skills.
+- 🔢 Also, I'm studying **Math** (the hard stuff!) because I believe it sharpens my problem-solving abilities.
+- 🚀 Building my **startup**, which is a work in progress but I can't wait to share it with the world!
 
-    <div class="content">
-        <h2>Who Am I?</h2>
-        <p>I'm a Computer Science student who's currently deep into Data Structures and Algorithms. I'm also brushing up on my math skills (yes, the tough stuff!) and working on a startup that I can't wait to share with everyone.</p>
-        
-        <div class="hr-line"></div>
+## Check Out My Projects
 
-        <h2>What Am I Up To?</h2>
-        <ul>
-            <li>💻 Focused on mastering **Data Structures** and **Algorithms** to level up my coding game.</li>
-            <li>🔢 Putting in the work to advance my **Math** skills – it's a grind, but totally worth it!</li>
-            <li>🚀 Developing my **startup** (it's still under wraps, but stay tuned!)</li>
-        </ul>
+Here are some of the things I'm working on:
 
-        <div class="hr-line"></div>
+- Implementing Data Structures in different languages
+- Solving Algorithmic challenges
+- Working on the tech side of my **startup** (details coming soon!)
 
-        <h2>Check Out My Projects</h2>
-        <p>Here's what I've been working on recently:</p>
-        <ul class="projects">
-            <li>Implementing Data Structures in multiple languages (yes, I'm a little obsessed with them).</li>
-            <li>Optimizing algorithms to solve problems efficiently (it’s my favorite part!).</li>
-            <li>Building the tech behind my **startup** – can’t wait to share more soon!</li>
-        </ul>
+## Let's Connect!
 
-        <div class="hr-line"></div>
+You can reach out to me through:
 
-        <h2>Let's Connect!</h2>
-        <p>If you're into the same stuff, or just want to chat, feel free to hit me up:</p>
-        <ul class="contact">
-            <li><a href="https://www.linkedin.com/in/bilal-kanjelkheir-9a893a302/" target="_blank">LinkedIn</a></li>
-            <li><a href="https://twitter.com" target="_blank">Twitter</a></li>
-        </ul>
-    </div>
+- [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/bilal-kanjelkheir-9a893a302/))
+- [Telegram](https://t.me/khawarozmi)
 
-    <div class="footer">
-        <p>© 2025 - My GitHub</p>
-    </div>
-</body>
-</html>
+Feel free to reach out, I love connecting with like-minded people. Let’s build something amazing together! 🔥
